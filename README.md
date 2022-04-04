@@ -8,7 +8,7 @@ I'm Burak, I'm working on .Net development and electronics. I am sharing my proj
 <a href="mailto:aburaktek@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aburaktek@gmail.com-blue?style=flat&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/buraktekn/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@buraktekn-blue?style=flat&logo=linkedin"></a>
 <a href="https://www.instagram.com/burakte/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-burakte-black?style=flat-square&logo=instagram"></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/buraktek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/buraktek" height="30" width="40" />buraktek</a>
+<a href="https://www.hackerrank.com/buraktek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/buraktek" height="30" width="40" />buraktek</a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
