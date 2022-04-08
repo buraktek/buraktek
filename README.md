@@ -17,9 +17,7 @@ I'm Burak, I'm working on .Net development and electronics. I am sharing my proj
 
 <h2 align="center">My GitHub Stats :bar_chart:</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=buraktek&show_icons=true&theme=tokyonight" width="450" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buraktek&layout=compact&theme=tokyonight" height="180">
-  
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buraktek&layout=compact&theme=tokyonight" height="180">
 </p>
 
 [0]: https://www.mobiler.dev/
